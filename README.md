@@ -35,7 +35,8 @@ Key datasets used:
 ## Requirements
 
 The notebook requires the following Python packages:
-- pandas, numpy
+- pandas
+- numpy
 - scikit-learn
 - transformers, sentence-transformers
 - matplotlib, seaborn
