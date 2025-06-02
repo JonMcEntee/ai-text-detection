@@ -1,6 +1,6 @@
 # AI-Generated Text Detection
 
-<img src="https://github.com/JonMcEntee/ieee-cis-fraud-detection/blob/main/credit-card-fraud.png?raw=true" width="50%" height="50%">
+<img src="https://raw.githubusercontent.com/JonMcEntee/student-essay-ai-text-detection/refs/heads/main/ai-text-detection.png" width="50%" height="50%">
 
 This repository contains [a Jupyter Notebook](https://github.com/JonMcEntee/student-essay-ai-text-detection/blob/main/AI_generated_Text_Detection.ipynb) for detecting AI-generated text using classical and transformer-based NLP techniques. The project was developed as part of the [LLM - Detect AI-Generated Text Kaggle competition](https://www.kaggle.com/c/llm-detect-ai-generated-text).
 
